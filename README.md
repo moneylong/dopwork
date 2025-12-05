@@ -87,7 +87,8 @@ Grafana - визуализация и дашборды
 
 
 
-   <img width="914" height="759" alt="7 нагрузка" src="https://github.com/user-attachments/assets/5c4a2f33-5f4f-49ad-8b07-eece5305339d" />
+   <img width="1813" height="819" alt="ngnix" src="https://github.com/user-attachments/assets/1ef5c1a4-9913-4b54-8e93-0361a96adc61" />
+
 
 
 
